@@ -1,0 +1,15 @@
+{
+  "name": "BH1750FVI",
+  "title" : "BH1750FVI",
+  "keywords": "BH1750FVI, Ambient , light,tcs",
+  "description": "BH1750FVI is an digital Ambient Light Sensor IC for I2C bus interface.",
+  "category":"Device Control",
+  "license": "enjoyneering",
+  "git": "https://github.com/PrinceBot-Ratthanin/BH1750FVI/",
+  "author": "original by enjoyneering | blocks by PrinceBot",
+  "email": "Print081@gmail.com",
+  "url": "https://github.com/PrinceBot-Ratthanin/BH1750FVI/",
+  "version": "0.0.0",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/display.jpg"
+}
